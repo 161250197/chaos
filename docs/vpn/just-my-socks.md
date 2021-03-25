@@ -14,8 +14,20 @@
 
 ## 使用
 
+### Windows 客户端
+
 Windows 客户端使用 [v2rayN](https://github.com/2dust/v2rayN/releases)；
+
+在 Service - My Service 中选择服务，然后扫描 **vmess** 的二维码。
+
+右键桌面右下角的蓝色 V 符号，选择 系统代理 - 自动配置系统代理。
+
+设置 - 路由设置 - 基础功能 - 一键导入基础规则 - 确定。
+
+### 安卓端
 
 安卓端 使用 [v2rayNG](https://github.com/2dust/v2rayNG/releases)；
 
-在 Service - My Service 中选择服务，然后扫描 **vmess** 的二维码即可。
+右上角添加，扫描二维码，同上。
+
+然后点击右下角的符号开启。
