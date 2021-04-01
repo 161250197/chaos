@@ -2,7 +2,7 @@
 
 ## 描述
 
-![1 trick 示例](.\img\1%20js-name\1%20trick%20示例.png)
+![1 trick 示例](./img/1%20js-name/1%20trick%20示例.png)
 
 当在浏览器中进行以上操作时会出现上述 `trick`。
 
@@ -10,11 +10,11 @@
 
 但是在 `node` 环境下、使用 `IIFE` 执行命令、或将 `var` 修改为 `let`，均可以规避此问题：
 
-![2 在 node 环境下执行](.\img\1%20js-name\2%20在%20node%20环境下执行.png)
+![2 在 node 环境下执行](./img/1%20js-name/2%20在%20node%20环境下执行.png)
 
-![3 使用 IIFE 执行](.\img\1%20js-name\3%20使用%20IIFE%20执行.png)
+![3 使用 IIFE 执行](./img/1%20js-name/3%20使用%20IIFE%20执行.png)
 
-![4 使用 let](.\img\1%20js-name\4%20使用%20let.png)
+![4 使用 let](./img/1%20js-name/4%20使用%20let.png)
 
 ## 原因
 
